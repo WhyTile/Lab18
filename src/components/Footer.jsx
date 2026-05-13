@@ -3,8 +3,8 @@ export default function Footer() {
     <footer className="footer">
       <p>© 2026 Єгор Київський. Усі права захищені.</p>
       <div className="socials">
-        <a href="https://github.com">GitHub</a>
-        <a href="https://linkedin.com">LinkedIn</a>
+        <a href="https://github.com/WhyTile">GitHub</a>
+        <a href="https://www.linkedin.com/in/yehor-kyivskyi-494758407/">LinkedIn</a>
       </div>
     </footer>
   );
